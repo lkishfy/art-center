@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": "note_1767238690865",
+      "title": "Art Center",
+      "content": "An online platform where artists list and sell their work directly to buyers. Artists create profiles, upload photos of their pieces, set prices, and manage their inventory. Buyers browse the catalog, filter by style/medium/price, save favorites, and purchase through integrated payments. The platform handles transactions, takes a commission, and facilitates communication between artists and collectors through built-in messaging. Reviews and ratings help build trust. Artists get a dashboard to track sales and payouts, while buyers get order history and can follow their favorite artists for new releases. spec out architecture for me.\n\nUse Vite",
+      "status": "done",
+      "priority": "high",
+      "tags": [
+        "idea",
+        "planning",
+        "journal"
+      ],
+      "linkedFiles": [
+        "IMPLEMENTATION_PLAN.md"
+      ],
+      "linkedCommits": [],
+      "createdAt": "2026-01-01T03:38:10.865Z",
+      "updatedAt": "2026-01-01T03:38:10.865Z",
+      "folderId": null
+    }
+  ],
+  "folders": []
+}
